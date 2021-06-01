@@ -1,0 +1,4 @@
+[submodule "ukb-derivatives"]
+	path = ukb-derivatives
+	url = data1.htc.inm7.de:/data/project/ukb_vbm/ukb_cat
+	datalad-id = 8938de76-0302-45b5-9825-3c6ce3f3fffe
