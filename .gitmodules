@@ -7,3 +7,4 @@
 	path = src/whatisdatalad
 	url = git@github.com:datalad-datasets/kdenlive-what-is-datalad.git
 	datalad-id = 4ceebd2d-2ce3-4733-84c4-ea67ba73898c
+	datalad-url = git@github.com:datalad-datasets/kdenlive-what-is-datalad.git
