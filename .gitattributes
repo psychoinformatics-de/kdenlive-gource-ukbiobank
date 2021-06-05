@@ -1,4 +1,5 @@
 
 * annex.backend=MD5E
 **/.git* annex.largefiles=nothing
+code/** annex.largefiles=nothing
 project.kdenlive annex.largefiles=nothing
