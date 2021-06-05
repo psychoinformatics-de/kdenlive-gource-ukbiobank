@@ -3,3 +3,7 @@
 	url = data1.htc.inm7.de:/data/project/ukb_vbm/ukb_cat
 	datalad-id = 8938de76-0302-45b5-9825-3c6ce3f3fffe
 	datalad-url = data1.htc.inm7.de:/data/project/ukb_vbm/ukb_cat
+[submodule "src/whatisdatalad"]
+	path = src/whatisdatalad
+	url = git@github.com:datalad-datasets/kdenlive-what-is-datalad.git
+	datalad-id = 4ceebd2d-2ce3-4733-84c4-ea67ba73898c
